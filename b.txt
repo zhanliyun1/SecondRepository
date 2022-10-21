@@ -3,3 +3,5 @@ ueueeu
 
 test yestaday
 a.txt not change
+
+first add to staged
