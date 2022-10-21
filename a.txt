@@ -6,3 +6,4 @@ look what happen
 
 i change a.txt
 bianye is boss
+add something
